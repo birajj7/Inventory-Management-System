@@ -1,0 +1,3 @@
+Sunscreen,NYX,100000,200.0,Nepal
+Hair Oil,Prostyle,2000,100.0,India
+Hair Spray,ABC,10000,300.0,Spain

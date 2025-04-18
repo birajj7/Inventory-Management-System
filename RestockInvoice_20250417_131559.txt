@@ -1,0 +1,9 @@
+Supplier: Samar Shrestha
+Date: 2025-04-17 13:15:59.646021
+
+Item	Brand	Qty	Rate	Amount
+Sunscreen	NYX	100000	200.0	20000000.0
+Hair Oil	Prostyle	2000	100.0	200000.0
+Hair Spray	ABC	10000	300.0	3000000.0
+
+Total Purchase Amount: Rs. 23200000.0
