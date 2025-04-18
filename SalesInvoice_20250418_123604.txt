@@ -1,0 +1,7 @@
+Customer: Gauri Prasad
+Date: 2025-04-18 12:36:04.114822
+
+Item	Brand	Qty	Rate	Amount
+Hair Oil	Prostyle	10	200.0	2000.0
+
+Total Sales Amount: Rs. 2000.0
